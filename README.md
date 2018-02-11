@@ -28,3 +28,5 @@ while(1):
 cap.release()
 cv2.destroyAllWindows()
 ```
+# Output
+<img src='https://i.imgur.com/o1sPi5M.png' />
