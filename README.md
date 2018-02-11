@@ -30,7 +30,9 @@ cv2.destroyAllWindows()
 ```
 # Output
 <img src='https://i.imgur.com/o1sPi5M.png' />
+
+
 # Note
-```
-before run the above code ,you should  install the the all dependencies/files.
-```
+```before run the above code ,you should  install the the all dependencies/files.```
+
+
