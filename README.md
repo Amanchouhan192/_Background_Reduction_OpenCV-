@@ -1,7 +1,7 @@
-# _Background_Reduction_OpenCV-
+# :heart_eyes:_Background_Reduction_OpenCV-
 In this small project the deduction of the background from the the video/image.. ; )
 
-# Small_Source_code
+# :stuck_out_tongue_winking_eye:Small_Source_code
 ```py
 import numpy as np
 import cv2
@@ -28,11 +28,11 @@ while(1):
 cap.release()
 cv2.destroyAllWindows()
 ```
-# Output
+# :fire: Output
 <img src='https://i.imgur.com/o1sPi5M.png' />
 
 
-# Note
+# :notebook:Note
 ```before run the above code ,you should  install the the all dependencies/files.```
 
 
